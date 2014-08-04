@@ -1,0 +1,5 @@
+C:\Users\Rasmus\documents\visual studio 2012\Projects\TDDWorkshop\BowlingScore\bin\Debug\BowlingScore.dll
+C:\Users\Rasmus\documents\visual studio 2012\Projects\TDDWorkshop\BowlingScore\bin\Debug\BowlingScore.pdb
+C:\Users\Rasmus\documents\visual studio 2012\Projects\TDDWorkshop\BowlingScore\obj\Debug\BowlingScore.csprojResolveAssemblyReference.cache
+C:\Users\Rasmus\documents\visual studio 2012\Projects\TDDWorkshop\BowlingScore\obj\Debug\BowlingScore.dll
+C:\Users\Rasmus\documents\visual studio 2012\Projects\TDDWorkshop\BowlingScore\obj\Debug\BowlingScore.pdb

@@ -1,0 +1,7 @@
+C:\Users\Rasmus\documents\visual studio 2012\Projects\TDDWorkshop\BowlingScoreTest\bin\Debug\BowlingScoreTest.dll
+C:\Users\Rasmus\documents\visual studio 2012\Projects\TDDWorkshop\BowlingScoreTest\bin\Debug\BowlingScoreTest.pdb
+C:\Users\Rasmus\documents\visual studio 2012\Projects\TDDWorkshop\BowlingScoreTest\bin\Debug\BowlingScore.dll
+C:\Users\Rasmus\documents\visual studio 2012\Projects\TDDWorkshop\BowlingScoreTest\bin\Debug\BowlingScore.pdb
+C:\Users\Rasmus\documents\visual studio 2012\Projects\TDDWorkshop\BowlingScoreTest\obj\Debug\BowlingScoreTest.csprojResolveAssemblyReference.cache
+C:\Users\Rasmus\documents\visual studio 2012\Projects\TDDWorkshop\BowlingScoreTest\obj\Debug\BowlingScoreTest.dll
+C:\Users\Rasmus\documents\visual studio 2012\Projects\TDDWorkshop\BowlingScoreTest\obj\Debug\BowlingScoreTest.pdb
