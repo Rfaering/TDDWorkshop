@@ -16,7 +16,7 @@ namespace BowlingScoreTest
         }
 
         [TestMethod]
-        public void GiveBowlingServiceWhenTestMethodCalledThenZeroReturned()
+        public void Given_BowlingService_When_CalculateScoreCalledWithNoArguments_Then_ZeroReturned()
         {
             var result = _target.CalculateScore();
             Assert.AreEqual(0, result);
