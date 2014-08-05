@@ -1,25 +1,25 @@
-﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using BowlingScore;
+﻿using BowlingScore;
+using NUnit.Framework;
+
 
 namespace BowlingScoreTest
 {
-    [TestClass]
+    [TestFixture]
     public class BowlingScoreServiceTest
     {
         private BowlingScoreService _target;
 
-        [TestInitialize]
+        [SetUp]
         public void Initialize()
         {
             _target = new BowlingScoreService();
         }
 
-        [TestMethod]
+        [Test]
         public void Given_BowlingService_When_CalculateScoreCalledWithNoArguments_Then_ZeroReturned()
         {
             var result = _target.CalculateScore();
-            Assert.AreEqual(0, result);
+            Assert.That(result, Is.EqualTo( 0 ));
         }
     }
 }
