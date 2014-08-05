@@ -5,3 +5,12 @@ C:\Users\Rasmus\documents\visual studio 2012\Projects\TDDWorkshop\BowlingScoreTe
 C:\Users\Rasmus\documents\visual studio 2012\Projects\TDDWorkshop\BowlingScoreTest\obj\Debug\BowlingScoreTest.csprojResolveAssemblyReference.cache
 C:\Users\Rasmus\documents\visual studio 2012\Projects\TDDWorkshop\BowlingScoreTest\obj\Debug\BowlingScoreTest.dll
 C:\Users\Rasmus\documents\visual studio 2012\Projects\TDDWorkshop\BowlingScoreTest\obj\Debug\BowlingScoreTest.pdb
+C:\Users\rfl\Documents\GitHub\TDDWorkshop\BowlingScoreTest\bin\Debug\BowlingScoreTest.dll
+C:\Users\rfl\Documents\GitHub\TDDWorkshop\BowlingScoreTest\bin\Debug\BowlingScoreTest.pdb
+C:\Users\rfl\Documents\GitHub\TDDWorkshop\BowlingScoreTest\bin\Debug\BowlingScore.dll
+C:\Users\rfl\Documents\GitHub\TDDWorkshop\BowlingScoreTest\bin\Debug\nunit.framework.dll
+C:\Users\rfl\Documents\GitHub\TDDWorkshop\BowlingScoreTest\bin\Debug\BowlingScore.pdb
+C:\Users\rfl\Documents\GitHub\TDDWorkshop\BowlingScoreTest\bin\Debug\nunit.framework.xml
+C:\Users\rfl\Documents\GitHub\TDDWorkshop\BowlingScoreTest\obj\Debug\BowlingScoreTest.csprojResolveAssemblyReference.cache
+C:\Users\rfl\Documents\GitHub\TDDWorkshop\BowlingScoreTest\obj\Debug\BowlingScoreTest.dll
+C:\Users\rfl\Documents\GitHub\TDDWorkshop\BowlingScoreTest\obj\Debug\BowlingScoreTest.pdb
