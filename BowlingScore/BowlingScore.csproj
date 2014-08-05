@@ -41,6 +41,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BowlingScoreService.cs" />
+    <Compile Include="Frame.cs" />
+    <Compile Include="Round.cs" />
+    <Compile Include="InvalidThrowException.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

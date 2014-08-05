@@ -7,3 +7,4 @@ C:\Users\rfl\Documents\GitHub\TDDWorkshop\BowlingScore\bin\Debug\BowlingScore.dl
 C:\Users\rfl\Documents\GitHub\TDDWorkshop\BowlingScore\bin\Debug\BowlingScore.pdb
 C:\Users\rfl\Documents\GitHub\TDDWorkshop\BowlingScore\obj\Debug\BowlingScore.dll
 C:\Users\rfl\Documents\GitHub\TDDWorkshop\BowlingScore\obj\Debug\BowlingScore.pdb
+C:\Users\rfl\Documents\GitHub\TDDWorkshop\BowlingScore\obj\Debug\BowlingScore.csprojResolveAssemblyReference.cache
